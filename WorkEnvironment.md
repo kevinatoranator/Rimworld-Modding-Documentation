@@ -37,7 +37,7 @@ Once in the tab, there will be text saying *"No solution found (right click to c
 
 Right click on the solution and select "Add new project".
 1. "Class Library" should be the project type (for .dll's)
-2. "C#" shhould be the language
+2. "C#" should be the language
 3. The project can be whatever practical and descriptive name you choose
 4. Finally the project directory, it can be a practical and descriptive name of your choice
 
